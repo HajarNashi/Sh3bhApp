@@ -6,6 +6,9 @@
 ## Overview
 Sh3bh is an application developed by the Trmeez Club at Imam Muhammad bin Saud University to facilitate communication and connection among students. The app aims to streamline the process of finding classmates' WhatsApp groups, making it easier for students to connect with their peers.
 
+The front-end of Sh3bh was primarily developed by Hajar Nashi as part of the Trmeez Club's project. This includes designing the user interface, implementing interactive features, and ensuring a seamless user experience.
+
+
 ## Features
 - **Group Finder:** Sh3bh allows users to search for their classmate groups on WhatsApp.
 - **Easy Connectivity:** Students can quickly join their respective class groups without hassle.
@@ -20,4 +23,6 @@ Sh3bh is an application developed by the Trmeez Club at Imam Muhammad bin Saud U
 
 
 
-<img width="631" alt="AppIconForGithub" src="https://user-images.githubusercontent.com/103394242/212836670-0507c200-8a13-4933-b6a4-21f20c880f8b.png">
+<img width="352" alt="Screenshot1" src="https://github.com/HajarNashi/Sh3bhApp/assets/103394242/3b4d52be-e8e7-49c8-b895-6395fe191ff9">
+<img width="352" alt="Screenshot2" src="https://github.com/HajarNashi/Sh3bhApp/assets/103394242/d7ab0a9f-c7c2-4a83-8a3b-dac88c23fd11">
+<img width="352" alt="Screenshot3" src="https://github.com/HajarNashi/Sh3bhApp/assets/103394242/ccf89d59-89a4-4c3a-884f-9b74fc77b06d">
